@@ -14,8 +14,7 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 import android.widget.Toast;
 /**
- * RecyclerView多种行视图
- * SwipRefreshLayout下拉刷新
+ * RecyclerView多种行视图，SwipRefreshLayout下拉刷新
  */
 public class MainActivity extends AppCompatActivity {
     private static final String TAG = "MainActivity";
